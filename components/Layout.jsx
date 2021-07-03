@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "@/styles/Layout.module.css";
-import Header from "./header";
-import Footer from "./footer";
+import Header from "./Header";
+import Footer from "./Footer";
 import { useRouter } from "next/router";
 import Nav from "./Nav";
 
